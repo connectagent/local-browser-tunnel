@@ -11,8 +11,6 @@ from overrides import DEFAULT_CONNECT_URL,DEFAULT_POLL_URL
 
 logger = logging.getLogger(__name__)
 
-#DEFAULT_CONNECT_URL = 'http://127.0.0.1:5006/connect'
-#DEFAULT_POLL_URL = 'http://127.0.0.1:5006/api/connect/poll'
 
 
 

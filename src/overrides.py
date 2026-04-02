@@ -1,9 +1,9 @@
 """URL overrides - modified by scripts/prepare_local_browser.py during build."""
 
 ### OVERRIDES START
-DEFAULT_CONNECT_URL = 'http://operator.max0.dev/connect'
-DEFAULT_POLL_URL = 'http://operator.max0.dev/api/connect/poll'
-RELAY_URL=    "http://relay.max0.dev"
+DEFAULT_CONNECT_URL = 'https://bootstrap-tunnel.connectagent.dev/connect'
+DEFAULT_POLL_URL = 'https://bootstrap-tunnel.connectagent.dev/poll'
+RELAY_URL=    "https://relay.connectagent.dev"
 ### OVERRIDES END
 
 
